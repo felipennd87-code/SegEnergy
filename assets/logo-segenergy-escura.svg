@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 330" role="img" aria-label="SegEnergy Energia Solar">
+  <!-- CONFIRMAR LOGO OFICIAL: recriado a partir da captura do perfil -->
+  <g transform="translate(130 0)">
+    <polygon points="175,0 0,199 112,179" fill="#FFFFFF"/>
+    <polygon points="175,0 228,159 190,164 138,108" fill="#106D41"/>
+    <polygon points="0,199 260,252 228,159" fill="#30B671"/>
+  </g>
+  <text x="260" y="300" text-anchor="middle" font-family="'Inter Tight', Inter, Arial, sans-serif" font-size="92" letter-spacing="-3" fill="#FFFFFF"><tspan font-weight="800">Seg</tspan><tspan font-weight="600">Energy</tspan></text>
+  <text x="430" y="330" text-anchor="end" font-family="'Inter Tight', Inter, Arial, sans-serif" font-size="27" font-weight="800" letter-spacing="1" fill="#30B671">ENERGIA SOLAR</text>
+</svg>
